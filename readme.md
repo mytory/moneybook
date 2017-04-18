@@ -1,6 +1,11 @@
 Mytory Moneybook
 ================
 
+This project is no longer managed and not available.
+----------------------------------------------------
+
+Becasue Dropbox api has changed.
+
 [Korean](readme.ko.md)
 
 Introduce
